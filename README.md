@@ -33,6 +33,7 @@
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [Unitree-Go2-GestureDetection](https://github.com/lez666/Unitree-Go2-GestureDetection) | Control Go2 with hand gestures using MediaPipe | ⭐15 |
+| [lez666-g1-sim2crawl](https://github.com/lez666/lez666-g1-sim2crawl) | Sim-to-crawl locomotion pipeline for G1 (modified) | - |
 | [ETHusdt](https://github.com/lez666/ETHusdt) | Frontend project (personal) | - |
 
 ---
