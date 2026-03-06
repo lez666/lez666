@@ -9,9 +9,8 @@
 
 ## 🤖 About Me
 
-- 💼 Working at **Unitree Robotics** - Technical Support Engineer
 - 🔬 Interest: **Deep RL**, **Sim-to-Real**, **Quadruped Robots**
-- 🐕 Working with: **ROS2**, **Python**, **C++**, **Unitree Go1/Go2/G1/H1**
+- 🐕 Working with: **ROS2**, **Python**, **C++**, **Unitree Robots**
 - 📍 HangZhou, P.R.China
 
 ---
@@ -34,9 +33,7 @@
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [Unitree-Go2-GestureDetection](https://github.com/lez666/Unitree-Go2-GestureDetection) | Control Go2 with hand gestures using MediaPipe | ⭐15 |
-| [walk-these-ways-go2-terrain](https://github.com/lez666/walk-these-ways-go2-terrain) | Graduation thesis - RL training on complex terrains | - |
-| [g1-motion-control](https://github.com/lez666/g1-motion-control) | G1 motion control & imitation learning | - |
-| [lez666-g1-sim2crawl](https://github.com/lez666/lez666-g1-sim2crawl) | Sim-to-crawl locomotion for G1 | - |
+| [ETHusdt](https://github.com/lez666/ETHusdt) | Frontend project (personal) | - |
 
 ---
 
